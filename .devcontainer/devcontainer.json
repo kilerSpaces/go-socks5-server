@@ -3,6 +3,6 @@
   "features": {
   },
   "postStartCommand": "go run main.go",
-  "forwordPorts": [1080,3128]
+  "forwordPorts": [1080,10084]
   
 }
